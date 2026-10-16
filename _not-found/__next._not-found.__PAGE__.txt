@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[34551,["/_next/static/chunks/daecec68dfe63af2.js","/_next/static/chunks/926a9c1801d0928f.js","/_next/static/chunks/aa76bdeb5085cde4.js"],"Box"]
+3:I[28415,["/_next/static/chunks/daecec68dfe63af2.js","/_next/static/chunks/926a9c1801d0928f.js","/_next/static/chunks/aa76bdeb5085cde4.js"],"Container"]
+4:I[87179,["/_next/static/chunks/daecec68dfe63af2.js","/_next/static/chunks/926a9c1801d0928f.js","/_next/static/chunks/aa76bdeb5085cde4.js"],"MovedSong"]
+5:I[50774,["/_next/static/chunks/d099a31df5f1aa7d.js","/_next/static/chunks/398504abcb01b8fc.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"buildId":"c2rlaWLM75sGAzBzB_ktJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"className":"page-shell-module-scss-module__NKq7Xa__page","children":["$","$L3",null,{"size":896,"px":0,"children":["$","$L4",null,{"musicRoute":"/music","songsRoute":"/music/songs","copy":{"en":{"title":"Nothing here","body":"This address leads nowhere on the site.","checking":"Checking whether this song has moved…","home":"To the home page"},"ru":{"title":"Здесь ничего нет","body":"Этот адрес никуда не ведёт.","checking":"Проверяем, не переехала ли эта песня…","home":"На главную"}}}]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/aa76bdeb5085cde4.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null
